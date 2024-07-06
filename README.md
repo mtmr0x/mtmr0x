@@ -1,6 +1,4 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning more deeply about Functional Programming and LISP
-- 📫 How to reach me: [mtmr0x.com](https://mtmr0x.com) | 🐦 [@mtmr0x](https://twitter.com/mtmr0x)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I already lived for 6 months with no fixed home, just travelling while working remotely.
+- 📫 How to reach me: [mat-m.com](https://mat-m.com) | 🐦 [@marsiglio_](https://twitter.com/marsiglio_)
